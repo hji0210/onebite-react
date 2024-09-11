@@ -93,4 +93,4 @@ const finded = arr5.find(
 );
 
 console.log(finded);
-//객체 자체가 반환되기 때문에  name : "이정환"출력
+//객체 자체가 반환되기 때문에  name : "이정환" 출력됨
